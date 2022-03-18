@@ -6,5 +6,6 @@ public class Main {
     System.out.println("Before Launch");
     App.launch(App.class, args);
     System.out.println("After Launch");
+    System.out.println("Nikola");
   }
 }
